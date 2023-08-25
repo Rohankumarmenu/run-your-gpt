@@ -8,8 +8,8 @@ import websockets
 
 app = Flask(__name__)
 
-HOST = 'http://127.0.0.1:7860'  
-URI = f'wss://called-separated-update-intimate.trycloudflare.com/api/v1/stream'
+HOST =   
+URI = 
 
 # Maximum message count limit
 MAX_MESSAGE_COUNT = 25
